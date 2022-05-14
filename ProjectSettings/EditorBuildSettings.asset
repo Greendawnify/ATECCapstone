@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Logo.unity
+    guid: 8270b07e2684ae143b0dcdb422540c5f
+  - enabled: 1
+    path: Assets/Scenes/Shooter/MainMenu.unity
+    guid: df369008d92bcd649b8d4289f9443db6
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Tutorial.unity
+    guid: 026b698b0bb0d4c4ab7369a43b12b6e0
+  - enabled: 1
+    path: Assets/Scenes/Shooter/FirstLevel.unity
+    guid: f5efe17cd079f2d4daa911db4732ba03
+  - enabled: 1
+    path: Assets/Scenes/Shooter/SecondLevel.unity
+    guid: 56cd9812f85619e478a5231e6be0c3cc
+  - enabled: 1
+    path: Assets/Scenes/Shooter/FourthLevel.unity
+    guid: bcd140ef63e89ff4bac0de32342c843a
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Third Level.unity
+    guid: 644fd9390dbf31b4d91a6db24411570d
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Fifth Level.unity
+    guid: a32991976dc911f4a8b36ea039f800c1
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Sixth Level.unity
+    guid: d2d6655a087990d4591da2c3d169b178
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Seventh Level.unity
+    guid: a7f69a664164081499c03218fa118b58
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Eigth Level.unity
+    guid: db5890f7a8e44c449a2f914fadd3f8bb
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Ninth Level.unity
+    guid: 0ae5d741080a2e24d8fb0facd8234254
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Tenth Level.unity
+    guid: a2708712c8225e941bb6bd46e6a2cf7e
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Eleventh Level.unity
+    guid: b6c9029922abaf245a472da85325bdfe
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Twelfth Level.unity
+    guid: ac72c3cd1547efd4f81b484da9e62cfa
+  - enabled: 1
+    path: Assets/Scenes/Shooter/Thirteenth Level.unity
+    guid: ff103d47d5751b84ca07759861d3984b
+  m_configObjects: {}
